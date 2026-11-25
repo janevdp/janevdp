@@ -2,7 +2,7 @@
 
 I am an AI & delivery-focused Project Manager and founder of Agile Alps. I lead programs and projects across GenAI, software development, cybersecurity, and digitalisation, helping both engineering and business teams evolve through change rather than around it.
 
-I spent 8 years in R&D Clinical Operations at AstraZeneca, in local and global hubs, where I led the Veeva program management implementation across 40 countries. For the past 4 years I have worked as an IT Project Manager delivering applications, systems, GenAI solutions, and cybersecurity projects.
+I spent 8 years in R&D Clinical Operations at AstraZeneca, in local and global hubs, where I led the Veeva program management implementation across 40 countries. For the past 8 years I have worked as an IT Project Manager delivering applications, systems, GenAI solutions, and cybersecurity projects.
 
 My work sits between the technical and the business side. I run the delivery, manage the stakeholders, and keep both engineers and business teams aligned on the same outcome. I hold a master's in pharmacy, which shapes how I think about regulated environments, risk, and the realities of large pharmaceutical organisations.
 
@@ -35,7 +35,7 @@ Master's in International Business
 **Reach me:**
 [LinkedIn](https://www.linkedin.com/in/janevdpol/)
 [Website](https://agilealps.ch) 
-[E-mail](mailto:jane@agilealps.ch).
+[E-mail](mailto:hello@agilealps.ch).
 
 **Fun fact:**
 I'm a longevity enthusiast and a Health2Wealth ambassador, so outside of delivery work I spend my time on the science of living better, longer.
